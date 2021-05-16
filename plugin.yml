@@ -1,0 +1,9 @@
+name: cAtout
+version: 1.0
+main: fr.ouwox.ccore.Main
+authors: [Cat4clysme]
+description: Plugin cAtout par Cat4clysme.
+commands:
+  atouts:
+    description: Permet d'ouvrir le menu des atouts.
+    aliases: [atout]

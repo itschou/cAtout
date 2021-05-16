@@ -1,0 +1,72 @@
+# cAtout plugin fait par Cat4clysme
+# Discord achat et support : https://discord.gg/78X3psYthH
+
+prefix: "&2&lcAtout"
+couleur-vitre: 5
+menu: 27 # Pour le menu utilisez des Multiples de 9, exemple : 9 , 18,36 ...
+effect-erreur: "&cDésolé mais votre effet est déjà activé."
+
+# Speed
+speed:
+  nom: "&fAtout de &bSpeed II"
+  lore:
+    - "§7§m---------------------------"
+    - "§aDeplacez-vous avec l'effet §bSpeed II §a!"
+    - "§7§m---------------------------"
+  msg: "&aVous venez d'activer l'effet &bSpeed II&a."
+  intensite: 1
+  place: 11
+  perm: "catout.use"
+  noperm: "&cVous n'avez pas la permission d'utiliser cet atout."
+
+# Fire
+fire:
+  nom: "&fAtout de &eResistance au feu"
+  lore:
+    - "§7§m---------------------------"
+    - "§aDeplacez-vous avec l'effet §eResistance au feu §a!"
+    - "§7§m---------------------------"
+  msg: "&aVous venez d'activer l'effet &eResistance au feu&a."
+  intensite: 0
+  place: 13
+  perm: "catout.use"
+  noperm: "&cVous n'avez pas la permission d'utiliser cet atout."
+
+# Force
+force:
+  nom: "&fAtout de &4Force I"
+  lore:
+    - "§7§m---------------------------"
+    - "§aDeplacez-vous avec l'effet §4Force I §a!"
+    - "§7§m---------------------------"
+  intensite: 0
+  msg: "&aVous venez d'activer l'effet &4Force I&a."
+  place: 15
+  perm: "catout.use"
+  noperm: "&cVous n'avez pas la permission d'utiliser cet atout."
+
+# Jump
+jumpboost:
+  nom: "&fAtout de &f&lJump Boost"
+  lore:
+    - "§7§m---------------------------"
+    - "§aDeplacez-vous avec l'effet §f§lJump Boost §a!"
+    - "§7§m---------------------------"
+  intensite: 1
+  msg: "&aVous venez d'activer l'effet &fJump Boost&a."
+  place: 12
+  perm: "catout.use"
+  noperm: "&cVous n'avez pas la permission d'utiliser cet atout."
+
+# Regen
+regeneration:
+  nom: "&fAtout de &dRegénération"
+  lore:
+    - "§7§m---------------------------"
+    - "§aDeplacez-vous avec l'effet §dRegénération §a!"
+    - "§7§m---------------------------"
+  intensite: 1
+  msg: "&aVous venez d'activer l'effet &dRegénération&a."
+  place: 14
+  perm: "catout.use"
+  noperm: "&cVous n'avez pas la permission d'utiliser cet atout."
